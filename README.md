@@ -21,19 +21,20 @@
 ## Guia de instalación:
 - **1.** Clonar el repositorio.
 
-![ClonarRepo]()
+![ClonarRepo](https://github.com/lucianaromano/PWA/blob/main/src/imagenes/Captura%20de%20pantalla%202025-04-16%20221734.png)
 
 
 - **2.** Instalar las dependencias.
   
-![Instalar]()
+![Instalar](https://github.com/lucianaromano/PWA/blob/main/src/imagenes/Captura%20de%20pantalla%202025-04-16%20220618.png)
 
 - **3.** Ejecutar la aplicación.
   
   3.1: Iniciamos el servidor de desarrollo con el siguiente comando:
   
-![Correr]()
+![Correr](https://github.com/lucianaromano/PWA/blob/main/src/imagenes/Captura%20de%20pantalla%202025-04-16%20220656.png)
   3.2: Abrimos el navegador y visitamos la url: 
-![Abrir]()
+  
+![Abrir](https://github.com/lucianaromano/PWA/blob/main/src/imagenes/web.png)
 
 - **4.** Problemas que pueden surgir:
